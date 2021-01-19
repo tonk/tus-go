@@ -1,3 +1,3 @@
-module tonk/tus-go
+module github.com/tonk/tus-go
 
 go 1.15
